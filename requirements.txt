@@ -1,0 +1,6 @@
+Please ensure following dependencies are satisfied in your local machine
+Dependencies
+markdown,Pillow, requests, tkhtmlview
+
+Run the following code:
+pip install markdown, Pillow, requests, tkhtmlview
