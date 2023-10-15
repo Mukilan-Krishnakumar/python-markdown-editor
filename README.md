@@ -25,11 +25,7 @@ To run the markdown editor, run the following command
 python3 main.py
 ```
 ## Demo
-<<<<<<< HEAD
-![Image]("images/working.png")
-=======
-![Image]("working.png")
->>>>>>> b98a0d3 (Work)
+![working.png]("working.png")
 
 ## License
 This Markdown editor is open-source and available under the MIT License. You are free to use, modify, and distribute it as you see fit.
